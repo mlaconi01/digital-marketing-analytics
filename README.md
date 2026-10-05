@@ -42,9 +42,9 @@ Insight principale: per un'attività locale con capacità limitata, la **rilevan
 
 ## Dashboard
 
-![Performance dei post e confronto anno su anno](dashboard/dashboard_post.png)
+![Performance dei post e confronto anno su anno](dashboard_post.png)
 
-![KPI delle storie](dashboard/dashboard_storie.png)
+![KPI delle storie](dashboard_storie.png)
 
 ## Note
 
